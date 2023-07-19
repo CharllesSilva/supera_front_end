@@ -43,3 +43,7 @@ A aplicação será executada localmente em seu navegador.
 ## Uso
 
 Após iniciar a aplicação, você poderá interagir com a interface do usuário e explorar as funcionalidades disponíveis na URL http://localhost:5173/
+
+imgProject/img.PNG
+![imagem da tela](imgProject/img.PNG)
+
